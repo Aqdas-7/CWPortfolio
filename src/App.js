@@ -59,7 +59,7 @@ export default function PortfolioLanding() {
         <footer className="footer">
           <div>
             <div className="footer-name">Neda Amber</div>
-            <div className="footer-contact">(225) 405-6229 | Neda@example.com</div>
+            <div className="footer-contact">(+91) 73668 41175 | nedaamber@gmail.com</div>
             <div className="footer-copy">© Neda Amber, 2025</div>
           </div>
         </footer>
